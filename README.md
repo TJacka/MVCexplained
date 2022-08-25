@@ -6,15 +6,15 @@
 
 ### A Lecture on the Model View Controller (MVC) Web Development Architecture Pattern
 
-<br><br>
+<br><hr><br>
 
 <img src="https://i.ibb.co/SVmrzcp/1.png" border="0">
 
-<br><br>
+<br><hr><br>
 
 <img src="https://i.ibb.co/ThRD4hW/2.png" border="0">
 
-<br><br>
+<br><hr><br>
 
 <img src="https://i.ibb.co/KwgyXhN/3.png" border="0">
 
