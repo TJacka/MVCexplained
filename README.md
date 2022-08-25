@@ -1,8 +1,8 @@
 <div align="center">
 
-# A Lecture on the MVC (Model View Controller) Web Development Architecture Pattern
+# The MVC (Model View Controller) Web Development Architecture Pattern
 
-<br><hr><br>
+<br><br>
 
 #<img src="https://i.ibb.co/SVmrzcp/1.png" border="0">
 
