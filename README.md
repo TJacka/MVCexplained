@@ -4,9 +4,9 @@
 
 <br>
 
-### A Lecture on the Model View Controller (MVC) Web Development Architecture Pattern
+### A Lecture on the Model View Controller Web Development Architecture Pattern
 
-<br><hr><br>
+<br><hr size="1"><br>
 
 #<img src="https://i.ibb.co/SVmrzcp/1.png" border="0">
 
@@ -18,19 +18,19 @@
 
 <img src="https://i.ibb.co/KwgyXhN/3.png" border="0">
 
-<br><br>
+<br><hr><br>
 
 <img src="https://i.ibb.co/T4Nhb3T/4.png" border="0">
 
-<br><br>
+<br><hr><br>
 
 <img src="https://i.ibb.co/ssJyV5G/5.png" border="0">
 
-<br><br>
+<br><hr><br>
 
 <img src="https://i.ibb.co/PDTVwxS/6.png" border="0">
 
-<br><br>
+<br><hr><br>
 
 <img src="https://i.ibb.co/3S186qT/7.png" border="0">
 
