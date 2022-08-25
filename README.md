@@ -8,7 +8,7 @@
 
 <br><hr><br>
 
-<img src="https://i.ibb.co/SVmrzcp/1.png" border="0">
+#<img src="https://i.ibb.co/SVmrzcp/1.png" border="0">
 
 <br><hr><br>
 
