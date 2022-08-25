@@ -1,8 +1,6 @@
 <div align="center">
 
-# MVC Web Development Architecture Pattern Explained <br>
-
-<br><br>
+<br>
 
 #<img src="https://i.ibb.co/SVmrzcp/1.png" border="0">
 
