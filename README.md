@@ -1,6 +1,6 @@
 <div align="center">
 
-# The MVC (Model View Controller) Web Development Architecture Pattern
+# The MVC Web Development Architecture Pattern
 
 <br><br>
 
